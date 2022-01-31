@@ -1,6 +1,6 @@
 # Design-VI
 
-## Github Markdown
+## GitHub Markdown
 ### Discord has similar markdown
 **Bold**
 
