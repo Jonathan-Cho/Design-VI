@@ -14,4 +14,4 @@ other areas in need of more energy.
 
 The cost and viability of such a project would depend on the location chosen and each location would require an individual anlysis if implementation would be beneficial.
 Multiple factors must be acounted for such as weather and maintaince.
-Likewise, the cost for implementing sucha  project would also be location dependent. 
+Likewise, the cost for implementing such a project would also be location dependent. 
